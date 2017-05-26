@@ -11,4 +11,4 @@
 
 ![out](https://cloud.githubusercontent.com/assets/16565587/26478434/1a75935e-4181-11e7-9ad6-75358c930163.gif)
 
-http://dai.ly/x5nv71s
+[![Watch the video](http://dai.ly/x5nv71s)
