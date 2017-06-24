@@ -1,5 +1,7 @@
 ## Application of using instanced rendering on OpenGL
 
+Generally, it is not hard to load models and texture-mapping on nodels if we have appropriate models and textures.    
+In this project, I simulated a difficulat situation: how to make objects vivid without suitable textures? and how to create many objects once ?     
 
 There are three levels in this tree. I used many group of leves in each level. In the top level, there is only one group of level, but in the second level, there are 15 group of leaves, and there are 25 group of leves in the third level. Each group of leaves has 100 amount of leaves. 
 ### Type 1 
